@@ -7,7 +7,7 @@ import Module from './pages/Module';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/estatisticaEnsinoMedio">
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
