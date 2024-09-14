@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/estatisticaEnsinoMedio/static/css/main.18f6e461.css",
-    "main.js": "/estatisticaEnsinoMedio/static/js/main.c27c4e6d.js",
+    "main.js": "/estatisticaEnsinoMedio/static/js/main.a5c3ec31.js",
     "index.html": "/estatisticaEnsinoMedio/index.html",
     "main.18f6e461.css.map": "/estatisticaEnsinoMedio/static/css/main.18f6e461.css.map",
-    "main.c27c4e6d.js.map": "/estatisticaEnsinoMedio/static/js/main.c27c4e6d.js.map"
+    "main.a5c3ec31.js.map": "/estatisticaEnsinoMedio/static/js/main.a5c3ec31.js.map"
   },
   "entrypoints": [
     "static/css/main.18f6e461.css",
-    "static/js/main.c27c4e6d.js"
+    "static/js/main.a5c3ec31.js"
   ]
 }
