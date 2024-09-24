@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Este é um software educativo desenvolvido para auxiliar no ensino de estatística para alunos do ensino médio. O objetivo é proporcionar um ambiente interativo e envolvente que facilite a compreensão de conceitos como medidas de tendência central, dispersão, probabilidade e análise de dados.
+Este é um aplicativo web educativo desenvolvido para auxiliar no ensino de estatística para alunos do ensino médio, oferecendo um ambiente interativo e envolvente que facilita a compreensão de conceitos como medidas de tendência central, dispersão, probabilidade e análise de dados. O aplicativo está disponível online e pode ser acessado via GitHub Pages: [Página do App](https://lfazzion.github.io/estatisticaEnsinoMedio/).
 
 ## Funcionalidades
 
